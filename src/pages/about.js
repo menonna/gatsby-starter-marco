@@ -1,5 +1,5 @@
 import React from "react"
-import Testa from "../components/testa"
+import Header from "../components/testa"
 
 
 export default function About() {
