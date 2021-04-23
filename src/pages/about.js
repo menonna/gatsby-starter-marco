@@ -5,7 +5,7 @@ import Testa from "../components/testa"
 export default function About() {
   return (
     <div style={{ color: `teal` }}>
-      <testa />
+      <Header />
       <p>Such wow. Very Reactttt.</p>
     </div>
   )
